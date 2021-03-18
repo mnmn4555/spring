@@ -1,13 +1,13 @@
-package kr.ac.inhatc.mvc.controller;
+package kc.ac.inhatc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloSpringApplication {
+public class HelloSpring1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloSpringApplication.class, args);
+		SpringApplication.run(HelloSpring1Application.class, args);
 	}
 
 }
